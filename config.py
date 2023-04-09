@@ -1,0 +1,11 @@
+api_id = 1234567
+api_hash = "1234567890abcdef1234567890abcdef"
+name = "bot"
+channel_id = 0
+bet_time = 120
+waiting_time = 180
+# endpoint = 'https://dev-pay.ton-rocket.com/' # test
+endpoint = "https://pay.ton-rocket.com/"  # prod
+# api_key = "12345678abcdef12345678abc" # test
+api_key = "12345678abcdef12345678abc"  # prod
+game_comission = 0.05
